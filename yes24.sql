@@ -1,4 +1,3 @@
-se yes24;
 
 select title, author from books;
 select * from books where rating >= 8.0;
